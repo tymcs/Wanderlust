@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Wanderlast</string>
+	<string name="scrolltext">
+    Traveling to Cox\'s Bazar, Rangamati, Lalbagh Fort, and the Sundarbans involves a combination of transportation methods such as flights, buses, and boats, depending on your starting point. Here\'s a general guide on how to travel to these destinations:\n\n
+    Cox\'s Bazar:\n
+    By Air:\n
+    Fly to Cox\'s Bazar Airport (CXB) from Hazrat Shahjalal International Airport (DAC) in Dhaka or other major airports in Bangladesh.\n
+    The flight duration is relatively short, making it a convenient option.\n
+    By Road:\n
+    Buses are available from Dhaka to Cox\'s Bazar, and the journey takes around 10-12 hours.\n
+    You can also hire a private car for a more comfortable and faster journey.\n\n
+    Rangamati:\n
+    By Air:\n
+    There\'s no airport in Rangamati, so you can\'t fly directly. The nearest airport is in Chittagong.\n
+    After reaching Chittagong, you can continue the journey by road.\n
+    By Road:\n
+    Buses are available from Dhaka to Rangamati, and the journey takes approximately 6-7 hours.\n
+    Alternatively, you can hire a car for a more comfortable journey.\n\n
+    Lalbagh Fort (Dhaka):\n
+    By Air:\n
+    Fly to Hazrat Shahjalal International Airport in Dhaka from major airports in Bangladesh.\n
+    By Road:\n
+    Lalbagh Fort is located in the heart of Dhaka, so you can easily reach it by local transport or taxi.\n\n
+    Sundarbans:\n
+    By Air:\n
+    There\'s no direct flight to the Sundarbans. The nearest airport is in Jessore.\n
+    After reaching Jessore, you can continue the journey by road.\n
+    By Road and Boat:\n
+    Take a bus from Dhaka to Khulna (about 9-10 hours).\n
+    From Khulna, take a boat or launch to reach the Sundarbans.\n
+    Guided tours are recommended for exploring the Sundarbans due to its complex waterways and wildlife.\n\n
+    General Tips:\n
+    Plan in Advance: Check transportation schedules and book tickets in advance, especially during peak travel times.\n
+    Local Transport: In each destination, use local transportation like auto-rickshaws, cycle rickshaws, or local buses for short distances.\n
+    Guided Tours: Consider guided tours for places like the Sundarbans to ensure a safe and well-organized experience.\n
+    Always check the latest travel advisories, weather conditions, and transportation options before planning your trip. Travel times and methods may vary, so it\'s essential to confirm details closer to your travel date.\n
+</string>
+
+</resources>
