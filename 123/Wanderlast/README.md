@@ -1,1 +1,1 @@
-## Wanderlast travel guide apps
+## Wanderlust travel guide apps
