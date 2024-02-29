@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
         topPlacesDataList.add(new TopPlacesData("Sunamganj","Bangladesh","$200 - $500",R.drawable.sungamganj));
         topPlacesDataList.add(new TopPlacesData("Jaflong","Bangladesh","$200 - $500",R.drawable.topplaces));
         topPlacesDataList.add(new TopPlacesData("Dhaka","Bangladesh","$200 - $500",R.drawable.dhaka));
-        topPlacesDataList.add(new TopPlacesData("Bola","Bangladesh","$200 - $500",R.drawable.bola));
+        topPlacesDataList.add(new TopPlacesData("Bhola","Bangladesh","$200 - $500",R.drawable.bola));
         topPlacesDataList.add(new TopPlacesData("Drugapur","Bangladesh","$200 - $500",R.drawable.drugapur));
         topPlacesDataList.add(new TopPlacesData("Sylhet","Bangladesh","$100 - $300", R.drawable.jaflong));
         topPlacesDataList.add(new TopPlacesData("Modhupur","Bangladesh","$100 - $200", R.drawable.modhupur));
