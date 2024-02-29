@@ -1,1 +1,1 @@
-## Wanderlast trave guide apps
+## Wanderlast travel guide apps
